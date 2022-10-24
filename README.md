@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 ![WhatsApp Image 2022-10-19 at 18 52 56](https://user-images.githubusercontent.com/82971303/196811939-62c91891-80a1-4193-8b6d-4e3403be8cc9.jpeg)
+![profile-pic (2)](https://user-images.githubusercontent.com/82971303/197573736-40fc9a56-9c70-4283-a81d-06d6dd477c15.png)
 
 In the project directory, you can run:
 
