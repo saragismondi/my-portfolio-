@@ -45,7 +45,7 @@ export default function CaptionCarousel() {
       text:
         "The project board is an exclusive resource for contract work. It's perfect for freelancers, agencies, and moonlighters.",
       image:
-        'https://user-images.githubusercontent.com/82971303/176019566-53992c03-30a3-4bf3-982f-4eb6f62e30c3.jpeg',
+        'https://user-images.githubusercontent.com/82971303/197655519-21fa1a84-38a5-4fa0-896f-be8688b98960.png',
     },
     {
       title: 'Design Projects 2',
@@ -59,7 +59,7 @@ export default function CaptionCarousel() {
       text:
         "The project board is an exclusive resource for contract work. It's perfect for freelancers, agencies, and moonlighters.",
       image:
-        'https://user-images.githubusercontent.com/82971303/176019566-53992c03-30a3-4bf3-982f-4eb6f62e30c3.jpeg',
+        'https://user-images.githubusercontent.com/82971303/176019707-a0b7461a-107f-41b7-963c-8b2ebf0d02f0.jpeg',
     },
   ];
 

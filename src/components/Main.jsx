@@ -7,6 +7,7 @@ import {
     Button,
     Icon,
     IconProps,
+    Image
   } from '@chakra-ui/react';
   
   export default function Main() {
@@ -23,27 +24,25 @@ import {
             lineHeight={'110%'}>
             Full Stack Web Developer{' '}
             <br/> 
-            <Text as={'span'} color={'orange.400'}>
+            <Text as={'span'} color={'#e06377'}>
             {' '}Sara Gismondi
             </Text>
           </Heading>
-          <Text color={'gray.500'} maxW={'3xl'}>
-          Hi! I´m Sara and I am a Full-Stack Web Developer Jr!. For a long time, I studied Logic so I´m a logician but now I´m so happy to have the possibility to apply it in conjunction with all the technologies that I learned in Henry Bootcamp, where I formed myself with their intensive course for Full-Stack Web Developer, which counts with 800+ hours of practicing and learning.
-          </Text>
+          
           <Stack spacing={6} direction={'row'}>
             <Button
               rounded={'full'}
               px={6}
-              colorScheme={'orange'}
-              bg={'orange.400'}
-              _hover={{ bg: 'orange.500' }}>
-              Get started
+              colorScheme={'#e06377'}
+              bg={'#e06377'}
+              _hover={{ bg: '#e06377' }}>
+              My Projects
             </Button>
-            <Button rounded={'full'} px={6}>
-              Learn more
+            <Button rounded={'full'} px={6}  bg={'#eeac99'}  _hover={{ bg: '#e06377' }}>
+              My Skills
             </Button>
           </Stack>
-        
+         
         </Stack>
       </Container>
     );
